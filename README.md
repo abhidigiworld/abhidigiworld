@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center;">
-  <img src="https://t3.ftcdn.net/jpg/01/36/25/58/360_F_136255856_XGPHT6zyNJay48Dprr0bTVYb4XlUuSaI.jpg" alt="banner" style="width: 100%; max-height: 100px; object-fit: cover;" />
+  <img src="[https://t3.ftcdn.net/jpg/01/36/25/58/360_F_136255856_XGPHT6zyNJay48Dprr0bTVYb4XlUuSaI.jpg](https://www.appypie.com/blog/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-02-08.46.58-Craft-a-modern-and-visually-appealing-image-for-a-web-design-portfolio-header.-The-image-should-embody-the-essence-of-web-design-innovation-featuring.png)" alt="banner" style="width: 100%; max-height: 100px; object-fit: cover;" />
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
     Hi 👋, I'm Abhishek Kumar Sharma
   </h1>
