@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Sharma</h1>
+<h1 align="center">
+  <img src="https://t3.ftcdn.net/jpg/01/36/25/58/360_F_136255856_XGPHT6zyNJay48Dprr0bTVYb4XlUuSaI.jpg" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+  <br>
+  Hi 👋, I'm Abhishek Kumar Sharma
+</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on [Notenest](https://notenestbyabhi.netlify.app/)
