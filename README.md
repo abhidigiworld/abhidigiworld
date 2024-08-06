@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center;">
-  <img src="https://t3.ftcdn.net/jpg/01/36/25/58/360_F_136255856_XGPHT6zyNJay48Dprr0bTVYb4XlUuSaI.jpg" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="https://t3.ftcdn.net/jpg/01/36/25/58/360_F_136255856_XGPHT6zyNJay48Dprr0bTVYb4XlUuSaI.jpg" alt="banner" style="width: 100%; max-height: 100px; object-fit: cover;" />
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
     Hi 👋, I'm Abhishek Kumar Sharma
   </h1>
