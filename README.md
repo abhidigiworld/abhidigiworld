@@ -7,7 +7,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-- 🔭 I’m currently working on [Notenest](https://notenestbyabhi.netlify.app/)
+- 🔭 I’m currently working on [QuizApp](https://quizappbyabhi.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Advanced React Patterns, Nodejs and express js**
 
