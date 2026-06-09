@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4a00e0,100:8e2de2&amp;height=200&amp;section=header&amp;text=Abhishek+Kumar+Sharma&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full+Stack+Developer+%7C+Cloud+Engineer+%7C+Java+%26+JS+Specialist&amp;descAlignY=55&amp;descSize=20" />
+<Center> <h1>Abhishek Kumar Sharma</h1> </Center>
 
 <!-- ANIMATED TYPING — Fira Code via DemoLab (most reliable provider) -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=8E2DE2&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Microservices+with+Spring+Boot+%2B+React+%F0%9F%9A%80;Containerizing+Legacy+Apps+for+Fun+%F0%9F%90%B3;Cloud+Native+%7C+Docker+%7C+Kubernetes+%E2%9A%A1;Open+Source+Collaborator+%7C+Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
