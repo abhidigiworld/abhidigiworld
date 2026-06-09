@@ -3,15 +3,17 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=200&section=header&text=Abhishek%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Java%20%26%20JS%20Specialist&descAlignY=55&descSize=20" />
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&multiline=false&width=700&lines=Building+Microservices+with+Spring+Boot+%26+React+%F0%9F%9A%80;Containerizing+Legacy+Apps+for+Fun+%F0%9F%90%B3;Cloud+Native+Development+%7C+Docker+%7C+Kubernetes+%E2%9A%A1;Open+Source+Collaborator+%7C+Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<!-- ANIMATED TYPING — Fira Code via DemoLab (most reliable provider) -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=700&lines=Building+Microservices+with+Spring+Boot+%26+React+%F0%9F%9A%80;Containerizing+Legacy+Apps+for+Fun+%F0%9F%90%B3;Cloud+Native+%7C+Docker+%7C+Kubernetes+%E2%9A%A1;Open+Source+Collaborator+%7C+Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=abhidigiworld&label=Profile+Views&color=8e2de2&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/abhidigiworld?tab=followers"><img src="https://img.shields.io/github/followers/abhidigiworld?label=Followers&style=for-the-badge&color=4a00e0&labelColor=1a1a2e" /></a>
+<a href="https://github.com/abhidigiworld?tab=followers">
+  <img src="https://img.shields.io/github/followers/abhidigiworld?label=Followers&style=for-the-badge&color=4a00e0&labelColor=1a1a2e" />
+</a>
 
 </div>
 
@@ -21,20 +23,20 @@
 
 ```javascript
 const abhishek = {
-  name       : "Abhishek Kumar Sharma",
-  alias      : "abhidigiworld",
-  role       : "Full Stack Developer & Cloud Enthusiast",
-  location   : "India 🇮🇳",
+  name        : "Abhishek Kumar Sharma",
+  alias       : "abhidigiworld",
+  role        : "Full Stack Developer & Cloud Enthusiast",
+  location    : "India 🇮🇳",
 
   currentFocus: [
     "Microservices with Spring Boot & React",
     "Docker · Kubernetes · Cloud Architecture"
   ],
 
-  strongSuit : ["Node.js", "React.js", "Java", "Modern Web Dev"],
-  lookingFor : "Full-Stack Open Source Collaborations",
-  superpower : "Containerizing legacy apps for fun ⚡",
-  contact    : "abhishekvishwakarma460@gmail.com",
+  strongSuit  : ["Node.js", "React.js", "Java", "Modern Web Dev"],
+  lookingFor  : "Full-Stack Open Source Collaborations",
+  superpower  : "Containerizing legacy apps for fun ⚡",
+  contact     : "abhishekvishwakarma460@gmail.com",
 };
 ```
 
@@ -111,14 +113,14 @@ const abhishek = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhidigiworld&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhidigiworld&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhidigiworld&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhidigiworld&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhidigiworld&theme=tokyonight&border_radius=12" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=abhidigiworld&theme=tokyonight&border_radius=12" />
 </div>
 
 ---
@@ -127,7 +129,7 @@ const abhishek = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhidigiworld&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhidigiworld&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -163,7 +165,7 @@ const abhishek = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidigiworld&theme=tokyo-night&bg_color=1a1b27&color=8e2de2&line=4a00e0&point=ffffff&area=true&hide_border=false&border_radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidigiworld&theme=tokyo-night&bg_color=1a1b27&color=8e2de2&line=4a00e0&point=ffffff&area=true&hide_border=false" />
 
 </div>
 
@@ -176,8 +178,6 @@ const abhishek = {
 <img src="https://raw.githubusercontent.com/abhidigiworld/abhidigiworld/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
-> ⚠️ **Note:** The snake animation requires a GitHub Action to generate. See setup instructions below.
 
 ---
 
@@ -193,7 +193,6 @@ const abhishek = {
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer" />
 
 **Crafted with ❤️ by Abhishek Kumar Sharma — Let's build something amazing together!**
